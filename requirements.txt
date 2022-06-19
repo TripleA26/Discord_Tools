@@ -1,0 +1,7 @@
+colorama
+dhooks
+pynput
+requests
+random
+discord-webhook
+pytube
